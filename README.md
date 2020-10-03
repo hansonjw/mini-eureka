@@ -4,8 +4,8 @@
   ## Description:  
   This application is a web based application which allows a user to write down notes which are then stored to a local JSON file.  The notes application has a form for the note tile and the body of the text.  When the application is loaded, prior notes are populated on the lefthand side.
 
-  <img src="./Develop/lib/Main-Screen.png" alt="main screen" width="700" height="500">
-  <img src="./Develop/lib/Note-Screen.png" alt="note screen" width="700" height="400">
+  <img src="./Develop/lib/Main-Screen.png" alt="main screen" width="200" height="100">
+  <img src="./Develop/lib/Note-Screen.png" alt="note screen" width="200" height="100">
 
   ## Table of Contents:
   * [Installation Instructions](#Installation:)
