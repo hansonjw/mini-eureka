@@ -28,7 +28,7 @@ function deleteNote (idRemove, notesArray){
             if (err) {
                 console.log(err); 
             } else { 
-                console.log("File written successfully\n"); 
+                console.log("File written successfully"); 
                 console.log("The file written has the following contents:"); 
                 console.log(fs.readFileSync(path.join(__dirname, '../db/db.json'), "utf8")); 
             }   
